@@ -1,4 +1,4 @@
-/*  
+ /*  
  HC-SR04 and HCSR05 Ping distance sensor
  This script outputs the duration of the pulse received from the
  sensor in microseconds.
